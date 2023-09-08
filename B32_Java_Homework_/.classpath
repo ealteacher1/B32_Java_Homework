@@ -9,5 +9,6 @@
 	<classpathentry kind="src" path="Shams"/>
 	<classpathentry kind="src" path="Maria"/>
 	<classpathentry kind="src" path="Urmin_New"/>
+	<classpathentry kind="src" path="Lubna"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
