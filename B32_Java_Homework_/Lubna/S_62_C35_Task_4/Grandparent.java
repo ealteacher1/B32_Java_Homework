@@ -1,0 +1,15 @@
+package S_62_C35_Task_4;
+
+public class Grandparent {
+
+	
+	public void grandparent_1() {
+		
+		System.out.println("Grandparent class 1");
+	}
+	
+	public void grandparent_2() {
+			System.out.println("Grandparent class 2");
+	}
+	
+}
